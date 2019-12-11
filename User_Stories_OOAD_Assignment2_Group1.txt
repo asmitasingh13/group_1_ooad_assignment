@@ -1,0 +1,9 @@
+As a programmer I want to create a smaller version of 15-Puzzle with 9 Cells that allows player to play a number puzzle.
+As a programmer I want to make sure that one cell is always empty so hat the player can move the number cell to play the game.
+As a programmer I want to make sure that player is allowed to move only one number cell to only adjacent position to empty cell at a time.
+As a programmer I want to make sure that player can move number cell only in horizontal and vertical positions and not in diagonal position.
+As a programmer I want to make sure that eight out of nine cells in the board are always filled with numbers from 1 to 8.
+As a programmer I want to make sure that player should arrange the numbers in ascending order to complete the puzzle.
+As a programmer I want to make sure that count the number of moves taken by player to find which player completes in least number of moves. 
+
+
